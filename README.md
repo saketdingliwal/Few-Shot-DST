@@ -1,6 +1,6 @@
 # Few Shot Dialog State Tracking using Meta-learning
 
-Source code for our "D-REPTILE" paper at EACL 2021: [Saket Dingliwal, Bill Gao, Sanchit Agarwal, Tagyoung Chung, and Dilek Hakkani-tur. "Few Shot Dialogue State Tracking using Meta-learning" EACL (2021)](). If you use the code, please cite the paper:
+Source code for our "D-REPTILE" paper at EACL 2021: [Saket Dingliwal, Bill Gao, Sanchit Agarwal, Tagyoung Chung, and Dilek Hakkani-tur. "Few Shot Dialogue State Tracking using Meta-learning" EACL (2021)](http://arxiv.org/abs/2101.06779). If you use the code, please cite the paper:
 
 ```
 @article{}
