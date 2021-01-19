@@ -14,5 +14,9 @@ Please stay tuned for the complete codebase and the specifications of the model 
 
 ## Pipeline
 The code consists of the implementation of D-REPTILE and the baseline (Naive Fine-Tuning) using the base model [STARC](https://arxiv.org/pdf/2004.05827.pdf). The implementation train and evaluate the categorical and non-categorical slots of each domain seperately. The directory structure is explained below
+```
+cat
+non-cat
+```
 
 ## Usage
